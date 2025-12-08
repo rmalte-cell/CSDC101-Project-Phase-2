@@ -6,5 +6,3 @@
 
 # Battle Demo
 
-
-# Screenshot
